@@ -28,11 +28,11 @@ The exact version of Python, Pandas, and all other libraries can be found in the
 
 ## Two Folders
 
-The `incomplete` and `complete` folders contain the exact same files.
+The `Incomplete` and `Complete` folders contain the exact same files.
 
-The Jupyter Notebooks in the `incomplete` folder have empty code cells. Watch along with the videos and practice writing the code inside the Notebook. You'll complete them as you progress through the course. Feel free to experiment!
+The Jupyter Notebooks in the `Incomplete` folder have empty code cells. Watch along with the videos and practice writing the code inside the Notebook. You'll complete them as you progress through the course. Feel free to experiment!
 
-The `complete` folder contains my _completed_ Jupyter Notebooks from the recording of the
+The `Complete` folder contains my _completed_ Jupyter Notebooks from the recording of the
 course. I recommend using these as a backup resource if a code sample does not work or if you want to compare our results.
 
 ## Startup and Shutdown
